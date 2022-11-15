@@ -359,8 +359,8 @@ class TestCases(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    # database = get_detailed_listing_database("html_files/mission_district_search_results.html")
-    # write_csv(database, "airbnb_dataset.csv")
-    # check_policy_numbers(database)
-    # unittest.main(verbosity=2)
-    print(extra_credit(16204265))
+    database = get_detailed_listing_database("html_files/mission_district_search_results.html")
+    write_csv(database, "airbnb_dataset.csv")
+    check_policy_numbers(database)
+    unittest.main(verbosity=2)
+    #print(extra_credit(16204265))
