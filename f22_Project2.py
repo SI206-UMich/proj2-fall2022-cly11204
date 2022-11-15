@@ -1,6 +1,7 @@
 #Name: Caitlin Liz Yeung
 #Class: SI 206
 #UMID: 13965134
+#Project 2
 
 from xml.sax import parseString
 from bs4 import BeautifulSoup
