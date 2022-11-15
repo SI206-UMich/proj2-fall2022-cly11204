@@ -1,6 +1,7 @@
-#Name: Caitlin Yeung
+#Name: Caitlin Liz Yeung
 #Class: SI 206
 #UMID: 13965134
+
 from xml.sax import parseString
 from bs4 import BeautifulSoup
 import re
